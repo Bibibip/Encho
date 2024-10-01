@@ -5,4 +5,4 @@ let travel = {
 for (let key in travel){
     const value = travel[key];
     console.log(key, value);
-}
+} 
