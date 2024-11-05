@@ -15,7 +15,7 @@ import "./Body.css";
         console.log(zero);
         return (
             <div className = "body">
-                {zero};
+                {zero};   
             </div>
         );
     }
